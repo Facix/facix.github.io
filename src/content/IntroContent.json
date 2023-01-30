@@ -1,0 +1,13 @@
+{
+  "title": "Et vous, quand sera votre prochaine activité ?",
+  "text": "Découvrez les activités proposées par les associations de votre ville et inscrivez-vous !",
+  "button": [
+    {
+      "title": "Parcourir"
+    },
+    {
+      "title": "En apprendre plus",
+      "color": "#fff"
+    }
+  ]
+}

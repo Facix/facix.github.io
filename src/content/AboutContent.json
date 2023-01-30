@@ -1,0 +1,16 @@
+{
+  "title": "Le problème que nous cherchons à résoudre",
+  "text": "Les associations et les structures ne disposent pas d'outils numériques pour la gestion de leur activité et que le coût d'un site dédié est bien trop onéreux. Le but de notre solution est de digitaliser ce secteur afin de leur permettre de proposer leurs activités au plus grand nombre tout en gagnant plus de temps sur leurs tâches.",
+  "section": [
+    {
+      "title": "Moins de 10%",
+      "content": "des résultats de site web permettant de rechercher des activités proposent de la vente en ligne.",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Le reste des annonces",
+      "content": "redirige vers des sites vitrines où l'expérience utilisateur n'est pas pratique et la prise de contact se fait uniquement par téléphone ou par mail.",
+      "icon": "notes.svg"
+    }
+  ]
+}
